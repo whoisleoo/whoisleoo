@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @whoisleoo<br> 🔭 I’m interested in learning front-end<br> 
+👋 Hi, I’m @whoisleoo<br> 🔭 I’m interested in learning full-stack<br> 
 
 
 ## 🌐 Socials:
