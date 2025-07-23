@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd83f6&height=90&section=header"/>
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=30&duration=4000&pause=1050&color=8C67DB&center=true&width=435&lines=print+(%22Hello+World!%22);print+(%22I'm+whoisleoo!%22)+" alt="Typing SVG" /></a>
 </div>
@@ -61,3 +63,5 @@ const goals = {
   <a href="https://www.linkedin.com/in/leonardo-marconato-308a04344" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-8C67DB?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/leomtr/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dd83f6&height=80&section=footer"/>
