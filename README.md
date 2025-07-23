@@ -61,7 +61,7 @@ const goals = {
 <div align="center"> 
   <a href="mailto:leomtr.dev@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/leonardo-marconato-308a04344" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-8C67DB?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/leomtr/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/leomtr_/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7626b9&height=80&section=footer"/>
