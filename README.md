@@ -1,76 +1,29 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7626b9&height=90&section=header"/>
+<img width="100%" src="https://cdn.discordapp.com/attachments/1380219324744335372/1419677843142742026/banner.png?ex=68d2a186&is=68d15006&hm=001c6bd7765cefa52d453d4d038c5dc7cc8fe4dc0e337b36ce00e64ad82076e5&"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=30&duration=4000&pause=1050&color=8C67DB&center=true&width=435&lines=print+(%22Hello+World!%22);print+(%22I'm+Leonardo!%22)+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Trajan+Pro&weight=600&size=30&duration=4000&pause=1050&color=FFFFFF&center=true&width=435&lines=print+(%22Hello+World!%22);print+(%22I'm+Leonardo!%22)+" alt="Typing SVG" /></a>
 </div>
 
-<h2 align='center'> About Me:</h2>
+
+<br>
+<br>
+<br>
+
+<div align="center">
+<h1>𝐇𝐞𝐥𝐥𝐨!</h1>
+<h2>𝑀𝑦 𝑛𝑎𝑚𝑒 𝑖𝑠 𝐿𝑒𝑜𝑛𝑎𝑟𝑑𝑜, 𝐼𝑚 𝑎 𝑓𝑢𝑙𝑙-𝑠𝑡𝑎𝑐𝑘 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟.</h2>
+<h2>𝑀𝑦 𝑚𝑎𝑖𝑛 𝑠𝑘𝑖𝑙𝑙 𝑖𝑠 𝑐𝑟𝑒𝑎𝑡𝑖𝑛𝑔 𝑏𝑢𝑔𝑠 𝑡ℎ𝑎𝑡 𝐼 𝑝𝑟𝑜𝑏𝑎𝑏𝑙𝑦 𝑤𝑜𝑛'𝑡 𝑏𝑒 𝑎𝑏𝑙𝑒 𝑡𝑜 𝑓𝑖𝑥.</h2>
+<h2>𝐹𝑒𝑒𝑙  <a href="">𝑓𝑟𝑒𝑒</a> 𝑡𝑜 𝑡𝑎𝑘𝑒 𝑎 𝑙𝑜𝑜𝑘 𝑎𝑡 𝑚𝑦 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠!</h2>
+</div>
+
+<br>
+<br>
+<br>
 <br>
 
 
-```javascript
-const leo = {
-    graduating: "Software Engineering"
-};
-
-const goals = {
-  description: "Deepen and expand my knowledge in programming, development and design."
-};
-
-```
-
-
-
-
-
-
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=whoisleoo&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisleoo&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img width="50%" src="https://cdn.discordapp.com/attachments/1380219324744335372/1419682008832938054/sdsadw.png?ex=68d2a567&is=68d153e7&hm=03074e1df53f0460889e6eeaecf04ecdbc5243681025a682f8c77d8cc803216d&"/>
 </div>
 
-##
-
-<div align="center" style="display: inline_block"><br>
-
-<img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-          
-<img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-
-<img align="center" alt="ExpressJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
-
-<img align="center" alt="ViteJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
-
-<img align="center" alt="ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-
-<img align="center" alt="ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg">
-    
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-
-<img align="center" alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> 
-
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
-
-<img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
-
-<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-
-</div>
-
-##
-  
-<div align="center"> 
-  <a href="mailto:leomtr.dev@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-7626b9?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/leonardo-marconato-308a04344" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-7626b9?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/leomtr_/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-7626b9?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7626b9&height=80&section=footer"/>
+<img width=100% src="https://cdn.discordapp.com/attachments/1380219324744335372/1419678193811718234/logofinal.png?ex=68d2a1d9&is=68d15059&hm=0274bcc0e7b65814499a14dba00abe34bdb9be046a692a63a8515aa317ccbcbe&"/>
