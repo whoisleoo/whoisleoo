@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" src="https://cdn.discordapp.com/attachments/1380219324744335372/1419677843142742026/banner.png?ex=68d2a186&is=68d15006&hm=001c6bd7765cefa52d453d4d038c5dc7cc8fe4dc0e337b36ce00e64ad82076e5&"/>
+<img width="100%" src="https://i.ibb.co/jPgMyD3x/banner.png"/>
 </div>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Trajan+Pro&weight=600&size=30&duration=4000&pause=1050&color=FFFFFF&center=true&width=435&lines=println+(%22Hello+World!%22);println+(%22I'm+Leonardo!%22)+" alt="Typing SVG" /></a>
@@ -25,8 +25,8 @@
 
 
 <div align="center">
-<img width="50%" src="https://cdn.discordapp.com/attachments/1380219324744335372/1419682008832938054/sdsadw.png?ex=68d2a567&is=68d153e7&hm=03074e1df53f0460889e6eeaecf04ecdbc5243681025a682f8c77d8cc803216d&"/>
+<img width="50%" src="https://i.ibb.co/HLV4Md1d/sdsadw.png"/>
 </div>
 <div align="center">
-<img width=100% src="https://cdn.discordapp.com/attachments/1380219324744335372/1419678193811718234/logofinal.png?ex=68d2a1d9&is=68d15059&hm=0274bcc0e7b65814499a14dba00abe34bdb9be046a692a63a8515aa317ccbcbe&"/>
+<img width=100% src="https://i.ibb.co/Tq28cd3F/logofinal.png"/>
 </div>
